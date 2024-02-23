@@ -1,8 +1,3 @@
-# snafu-mag-trader-plus-config
-
-
-
-{
     "Version": "2.5",
     "EnableAutoCalculation": 0,
     "EnableAutoDestockAtRestart": 0,

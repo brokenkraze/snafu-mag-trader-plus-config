@@ -1,0 +1,1 @@
+# snafu-mag-trader-plus-config
